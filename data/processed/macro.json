@@ -1,0 +1,73 @@
+{
+  "generated_at": "2026-11-08",
+  "china": {
+    "cpi": {
+      "label": "CPI 同比",
+      "value": 7.1,
+      "period": "1986-02",
+      "unit": "%"
+    },
+    "ppi": {
+      "label": "PPI 同比",
+      "value": 13.5,
+      "period": "1995-08",
+      "unit": "%"
+    },
+    "pmi": {
+      "label": "制造业 PMI",
+      "value": 49.3,
+      "period": "2026年10",
+      "unit": ""
+    },
+    "m1": {
+      "label": "M1 同比",
+      "value": 3.2,
+      "period": "2026年09",
+      "unit": "%"
+    },
+    "m2": {
+      "label": "M2 同比",
+      "value": 7.2,
+      "period": "2026年09",
+      "unit": "%"
+    },
+    "job": {
+      "label": "城镇调查失业率",
+      "value": null,
+      "period": null,
+      "unit": "%"
+    }
+  },
+  "usa": {
+    "cpi": {
+      "label": "CPI 同比",
+      "value": 0.5,
+      "period": "1970-01",
+      "unit": "%"
+    },
+    "core": {
+      "label": "核心 CPI 同比",
+      "value": 0.5,
+      "period": "1970-01",
+      "unit": "%"
+    },
+    "ppi": {
+      "label": "PPI 同比",
+      "value": null,
+      "period": null,
+      "unit": "%"
+    },
+    "pmi": {
+      "label": "ISM 制造业 PMI",
+      "value": 52.0,
+      "period": "1970-01",
+      "unit": ""
+    },
+    "job": {
+      "label": "失业率",
+      "value": 3.5,
+      "period": "1970-01",
+      "unit": "%"
+    }
+  }
+}
