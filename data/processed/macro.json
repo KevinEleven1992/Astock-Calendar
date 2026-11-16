@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-13",
+  "generated_at": "2026-11-16",
   "china": {
     "cpi": {
       "label": "CPI 同比",
-      "value": 7.1,
-      "period": "1986-02",
+      "value": null,
+      "period": null,
       "unit": "%"
     },
     "ppi": {
       "label": "PPI 同比",
-      "value": 13.5,
-      "period": "1995-08",
+      "value": null,
+      "period": null,
       "unit": "%"
     },
     "pmi": {
@@ -21,14 +21,14 @@
     },
     "m1": {
       "label": "M1 同比",
-      "value": 3.2,
-      "period": "2026年09",
+      "value": null,
+      "period": null,
       "unit": "%"
     },
     "m2": {
       "label": "M2 同比",
-      "value": 7.2,
-      "period": "2026年09",
+      "value": null,
+      "period": null,
       "unit": "%"
     },
     "job": {
@@ -41,14 +41,14 @@
   "usa": {
     "cpi": {
       "label": "CPI 同比",
-      "value": 0.5,
-      "period": "1970-01",
+      "value": null,
+      "period": null,
       "unit": "%"
     },
     "core": {
       "label": "核心 CPI 同比",
-      "value": 0.5,
-      "period": "1970-01",
+      "value": null,
+      "period": null,
       "unit": "%"
     },
     "ppi": {
@@ -59,14 +59,14 @@
     },
     "pmi": {
       "label": "ISM 制造业 PMI",
-      "value": 52.0,
-      "period": "1970-01",
+      "value": null,
+      "period": null,
       "unit": ""
     },
     "job": {
       "label": "失业率",
-      "value": 3.5,
-      "period": "1970-01",
+      "value": null,
+      "period": null,
       "unit": "%"
     }
   }
